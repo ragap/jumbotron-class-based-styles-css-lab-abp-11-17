@@ -50,3 +50,18 @@ h3#header {
   color: #868e96;
 }
 
+#jumbotron div {border-radius: 5px ;
+               background-color: #e9ecef;
+             padding: 10px ;
+           text-align: center;}
+
+Using a class selector, find the `div` with `class` `jumbotron` and give it a `border-radius` of `5px`, a `background-color` of `#e9ecef`, 
+a `padding` of `10px` and [center align the text](https://www.w3schools.com/cssref/pr_text_text-align.asp). 
+
+### The `<h1>` in the Jumbotron
+
+Find the `<h1>` inside an element (hint: not just a `div`) with `class` `jumbotron` using a [class selector](https://www.w3schools.com/cssref/sel_class.asp). Make the `font-size` `60px`.
+
+### The `<p>` in the Jumbotron
+
+Style all `p`s inside an element (hint: not just a `div`) with `class` `jumbotron` using a [class selector](https://www.w3schools.com/cssref/sel_class.asp). Give them a `font-size` of `20px`, a `40px` left and right padding and a `0` top and bottom padding, and a `line-height` of `40px`. 
