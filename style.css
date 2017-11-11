@@ -57,9 +57,8 @@ h3#header {
 
 #jumbotron.h1 { font-size :60px}
 
-
-Make the `font-size` `60px`.
-
+#jumbotron.p { font-size :20px;padding:40px 40px 0 0 ;
+line-height: 40 px}
 ### The `<p>` in the Jumbotron
 
-Style all `p`s inside an element (hint: not just a `div`) with `class` `jumbotron` using a [class selector](https://www.w3schools.com/cssref/sel_class.asp). Give them a `font-size` of `20px`, a `40px` left and right padding and a `0` top and bottom padding, and a `line-height` of `40px`.
+Give them a `font-size` of `20px`, a `40px` left and right padding and a `0` top and bottom padding, and a `line-height` of `40px`.
